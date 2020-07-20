@@ -35,7 +35,7 @@ If no low latency kernel has not been located, the script proceeds with its inst
 
 6- In turn, the  cpufrequtils indicator-cpufreq package is installed. This will allow the user to make use of the CPU at its maximum performance.
 
-7- One of the last tasks performed is the download and installation of the realtimeconfigquickscan Pearl script that allows the user to check if all the parameters are ready to work in RT mode.
+7- One of the last tasks performed is the download and installation of the realtimeconfigquickscan Perl script that allows the user to check if all the parameters are ready to work in RT mode.
 
 sudo git clone git://github.com/raboof/realtimeconfigquickscan.git
 

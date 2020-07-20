@@ -12,8 +12,7 @@ music-daw
 
 
 # The “music-daw” Script
-
-It must me executed right after running the “$ sudo dpkg -i music-daw.1.0.deb” command as a regular user in the same terminal ex:.  $ music-daw  
+  
 
 1- The The first part of the script includes the user in the audio group,in a way that the user has access to the permissions of this group
 

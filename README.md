@@ -3,9 +3,9 @@ The porpuse of this project is to create a shell script to facilitate the proces
 
 You just need to download the .deb file that will probably be saved in the Downloads directory.
 Open your terminal, go to where .deb is and run:
-
+´´´
 sudo dpkg -i music-daw.0.1.0.deb
-
+´´´
 After installing all you need to do is run the main script, with your own user, not root.
 
 music-daw

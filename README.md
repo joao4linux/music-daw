@@ -28,6 +28,7 @@ CONFIG_HZ_1000=y
 CONFIG_HZ=1000
 CONFIG_PREEMPT_RT_FULL=y
 CONFIG_PREEMPT=y
+
 If no low latency kernel has not been located, the script proceeds with its installation.
 
 5-Then the script includes the KX Studio’s repositories in your system. This procedure will allow the user to install both software and plugins available at the repository. This portion of the installation does not alter any function of the OS. If at any moment, errors occur due to any modification in the KX Studio’s repository, the script will inform the user but continues the remaining portion of the installation normally. 

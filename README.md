@@ -1,5 +1,5 @@
 # music-daw
-The porpuse of this project is to create a shell script to facilitate the process of configuring Ubuntu or Mint operating systems to use the low latency and real-time kernel, transforming your computer into a digital audio workstation (DAW).
+The porpuse of this project is to create a shell script to facilitate the process of configuring Debian, Ubuntu or Mint operating systems to use the low latency and real-time kernel, transforming your computer into a digital audio workstation (DAW).
 
 You just need to download the .deb file that will probably be saved in the Downloads directory.
 Open your terminal, go to where .deb is and run:
